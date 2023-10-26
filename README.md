@@ -77,7 +77,7 @@ When I'm not coding or diving into tech, you'll often find me exploring the late
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-sad-im&show_icons=true&locale=en&theme=tokyonight" alt="im-sad-im" /></p>
        </td>
        <td>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-sad-im&theme=dark" alt="im-sad-im" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-sad-im&theme=dark" alt="im-sad-im" /></p>
        </td>
       </tr>
  </table>
