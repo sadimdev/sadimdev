@@ -63,25 +63,22 @@ I'm always open to new opportunities, collaborations, and connecting with like-m
 When I'm not coding or diving into tech, you'll often find me exploring the latest video games or reminiscing about the classics that fueled my passion for computers in the first place. -->
 
 <table>
-
- <table>
        <tr>
         <td>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-sad-im&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="im-sad-im" /></p>
         </td>
-       </tr>
- </table>
- <table> 
-      <tr>
        <td>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-sad-im&show_icons=true&locale=en&theme=tokyonight" alt="im-sad-im" /></p>
        </td>
+       </tr>
+ </table>
+<!--  <table> 
+      <tr>
        <td>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-sad-im&theme=dark" alt="im-sad-im" /></p>
        </td>
       </tr>
- </table>
-</table>
+ </table> -->
 
 
 
