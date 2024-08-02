@@ -73,10 +73,10 @@ When I'm not coding or diving into tech, you'll often find me exploring the late
 <table>
        <tr>
         <td>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-sad-im&show_icons=true&theme=dark&locale=en&layout=compact" alt="im-sad-im" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadimdev&show_icons=true&theme=dark&locale=en&layout=compact" alt="im-sad-im" /></p>
         </td>
        <td>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-sad-im&show_icons=true&locale=en&theme=dark" alt="im-sad-im" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadimdev&show_icons=true&locale=en&theme=dark" alt="im-sad-im" /></p>
        </td>
        </tr>
  </table>
