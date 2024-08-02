@@ -8,7 +8,7 @@
 I'm a passionate computer enthusiast with a deep love for technology that began in my early years. Back when I was just a kid, I would spend countless hours playing games on my computer, which ignited my curiosity and fascination with all things digital. My childhood love for computers has transformed into a burning desire to create innovative software solutions that make a positive impact on people's lives.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
- <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-sad-im&label=Profile%20views&color=0e75b6&style=flat" alt="im-sad-im" /> </p> -->
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadimdev&label=Profile%20views&color=0e75b6&style=flat" alt="im-sad-im" /> </p>
 
 
 
@@ -47,7 +47,7 @@ A little more about me...
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code> <br/>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
 	<code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
