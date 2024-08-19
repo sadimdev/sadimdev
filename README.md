@@ -8,7 +8,7 @@
 I'm a passionate computer enthusiast with a deep love for technology that began in my early years. Back when I was just a kid, I would spend countless hours playing games on my computer, which ignited my curiosity and fascination with all things digital. My childhood love for computers has transformed into a burning desire to create innovative software solutions that make a positive impact on people's lives.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadimdev&label=Profile%20views&color=0e75b6&style=flat" alt="im-sad-im" /> </p>
+<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadimdev&label=Profile%20views&color=0e75b6&style=flat" alt="im-sad-im" /> </p> -->
 
 
 
@@ -53,9 +53,10 @@ A little more about me...
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
 <!-- 	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code> -->
-	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" title="Nodejs"></code>
+	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mySQL" title="mySQL"></code>
 	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" title="PostgreSQL"></code>
-	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mySQL" title="mySQL"></code>
+	<code><img height="30" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" title="MongoDb"></code>
 </div>
       
  <!-- ### 🌟 Why I'm Here:
